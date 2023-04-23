@@ -1,1 +1,1 @@
--- insert into genre (name) values ('Action'), ('Horror'), ('War');
+insert into genre (name) values ('Action'), ('Horror'), ('War');
